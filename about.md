@@ -9,7 +9,7 @@ permalink: /about/
 
 
 
-Saidul Alam Chowdhury is a graduate student at the Incheon national University, South Korea. He recently passed his Ph.D. Qualifying exam and is now a Ph.D. candidate. His thesis topic roams around modeling humans in the driving domain. His bigger research agenda is to find efficient and faster ways to test Autonomous Vehicles in virtual environments. He believes simulation can accelerate the AV development and testing process in numerous ways. He is developing tools for AV simulations built on top of different game engines. His research work has been published in prestigious venues like SAE and ITS Conferences.
+Saidul Alam Chowdhury is a graduate student at the Incheon national University, South Korea. He recently passed his Ph.D. Qualifying exam and is now a Ph.D. candidate. His thesis topic roams around improving the system performances of the wireless power transfer. His bigger research agenda is to improve the EMI and the system efficiency simultonously for wireless power charging devices. He is developing hardwares for various applications as electric vehicle, portable devices, automatic guided vehicle. His research work has been published in prestigious venues like IEEE transactions on industrial electronics.
 
 
 <!-- 
