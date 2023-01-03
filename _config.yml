@@ -4,7 +4,7 @@ general_email: saidul.cuet105@gmail.com
 academic_email: saidul105@inu.ac.kr
 
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Ph.D. candidate at INU. My research focuses on modeling human driven vehicle for autonomous vehicle testing. 
+  I am a Ph.D. candidate at INU. My research focuses on power electronics and analog circuit design for wireless power transfer applications: Portable Devices, Electric Vehicle, Automatic Guided Vehicle.    
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
@@ -12,9 +12,9 @@ url: "" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 github_username: saidul105
-linkedin_username: abdul-jawad-efaj
-facebook_username: Saidulchowdhury
-researchgate_username: Abdul-Jawad-5
+linkedin_username: saidul-alam-chowdhury
+facebook_username: Saidul Chowdhury
+researchgate_username: ASaidul-Alam-Chowdhury
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
