@@ -1,19 +1,19 @@
 # Site settings
-title: Abdul Jawad
-general_email: jawadefaj006@gmail.com
-academic_email: abjawad@ucsc.edu
+title: Saidul Alam Chowdhury
+general_email: saidul.cuet105@gmail.com
+academic_email: saidul105@inu.ac.kr
 
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Ph.D. candidate at UCSC. My research focuses on modeling human driven vehicle for autonomous vehicle testing. 
+  I am a Ph.D. candidate at INU. My research focuses on modeling human driven vehicle for autonomous vehicle testing. 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: jawadefaj
+github_username: saidul105
 linkedin_username: abdul-jawad-efaj
-facebook_username: jawadefaj
+facebook_username: Saidulchowdhury
 researchgate_username: Abdul-Jawad-5
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
