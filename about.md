@@ -9,7 +9,7 @@ permalink: /about/
 
 
 
-Saidul Alam Chowdhury is a graduate student at the Incheon National University, South Korea. He recently passed his Ph.D. Qualifying exam and is now a Ph.D. candidate. His thesis topic roams around improving the system performances (such as power trasfer efficiency, power transfer distance, EMI for nearby electronic devices) of the Wireless Power Transfer. His bigger research agenda is to improve the EMI for nearby electronic devices and the overall system efficiency simultonously for wireless power charging devices. He is developing hardwares for various applications as electric vehicle, portable devices, automatic guided vehicle. His research work has been published in prestigious venues like IEEE Transactions on Industrial Electronics.
+Saidul Alam Chowdhury is a graduate student at the Incheon National University, South Korea. He recently passed his Ph.D. Qualifying exam and is now a Ph.D. candidate. His research topic roams around improving the system performances (such as power trasfer efficiency, power transfer distance, EMI for nearby electronic devices) of the Wireless Power Transfer. His bigger research agenda is to reduce the EMI for nearby electronic devices and improve the overall system efficiency simultonously for wireless power charging devices. He is developing hardwares for various applications as Electric Vehicle, Portable Devices, Automatic Guided Vehicle. His research work has been published in prestigious venues like IEEE Transactions on Industrial Electronics.
 
 
 <!-- 
