@@ -4,7 +4,7 @@ general_email: saidul.cuet105@gmail.com
 academic_email: saidul105@inu.ac.kr
 
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Ph.D. candidate at Incheon National University, South Korea. My research focuses on power electronics and analog circuit design for wireless power transfer applications: Portable Devices, Electric Vehicle, Automatic Guided Vehicle.    
+  I am a Ph.D. candidate at Incheon National University, South Korea. My research focuses on power electronics and analog, digital and mixed signal circuits design for wireless power transfer applications: Portable Devices, Electric Vehicle, Automatic Guided Vehicle.    
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
