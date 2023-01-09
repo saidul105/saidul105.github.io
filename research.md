@@ -15,10 +15,10 @@ Describe your research interests here.
 		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
 	<li>
-		<b>Procedural Generation of High- Definition Road Networks for Autonomous Vehicle Testing and Traffic Simulations</b><br>
-		<i>Golam Md Muktadir, Abdul Jawad, Ishaan Paranjape, Jim Whitehead, and Aleksey Shepelev</i><br>
-		SAE International Journal of Connected and Automated Vehicles, 2023<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
+		<i>Saidul Alam Chowdhury; Om Prakash Bose; Quazi Delwar Hossain</i><br>
+		2018 International Conference on Innovations in Science, Engineering and Technology (ICISET), 2018<br>
+		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
 	<li>
 		<b>A Modular Architecture for Procedural Generation of Towns, Intersections and Scenarios for Testing Autonomous Vehicles"</b><br>
