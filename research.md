@@ -9,10 +9,10 @@ Describe your research interests here.
 <h2>Publications</h2>
 <ul>
 <li>
-		<b>CogMod: Simulating Human Information Processing Limitation While Driving</b><br>
-		<i>Abdul Jawad, and Jim Whitehead</i><br>
-		IEEE Intelligent Vehicles Symposium (IV), 2022<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
+		<i>Saidul Alam Chowdhury; Sang-Won Kim; Seong-Min Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
+		IEEE Transactions on Industrial Electronics, 2023<br>
+		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
 	<li>
 		<b>Procedural Generation of High- Definition Road Networks for Autonomous Vehicle Testing and Traffic Simulations</b><br>
