@@ -73,7 +73,7 @@ title: Research
 <ul>
 <li>
 		<b>WoW 2020: IEEE PELS Workshop on Emerging Technologies: Wireless Power;<br>   
-                   WPTC 2020: IEEE MTT-S Wireless Power Transfer Conference; 
+                   WPTC 2020: IEEE MTT-S Wireless Power Transfer Conference; <br>
 	           AFA 2020: AirFuel Alliance Developers Forum  </b><br>
 		<i>November 15 – 19, 2020, Seoul, Korea </i><br>
 		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a>
