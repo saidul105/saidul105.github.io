@@ -4,8 +4,6 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
-
 <h2>Publications</h2>
 <ul>
 <li>
@@ -70,3 +68,18 @@ Describe your research interests here.
 	</li><br>
 </ul>
  -->
+ 
+ <h2>Attended Conference</h2>
+<ul>
+<li>
+		<b>WoW 2020: IEEE PELS Workshop on Emerging Technologies: Wireless Power   
+                   WPTC 2020: IEEE MTT-S Wireless Power Transfer Conference 
+	           AFA 2020: AirFuel Alliance Developers Forum  </b><br>
+		<i>November 15 – 19, 2020, Seoul, Korea </i><br>
+		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
+		<b>International Conference on Innovations in Science, Engineering and Technology (ICISET 2018)</b><br>
+		<i>October 27 – 28, 2018, Chittagong, Bangladesh</i><br>
+		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">pdf</div></a>
+	</li><br>
