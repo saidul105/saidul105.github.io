@@ -10,13 +10,13 @@ title: Research
 		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Sang-Won Kim; Seong-Min Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
 		IEEE Transactions on Industrial Electronics, 2023<br>
-		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a>
 	</li><br>
 	<li>
 		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
 		<i>Saidul Alam Chowdhury; Om Prakash Bose; Quazi Delwar Hossain</i><br>
 		2018 International Conference on Innovations in Science, Engineering and Technology (ICISET), 2018<br>
-		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 
