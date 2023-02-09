@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /research/
-permalink: /cv/
 title: Research
 ---
 
