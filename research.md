@@ -10,7 +10,7 @@ title: Research
 		<b>Automatic Tuning Resonant Capacitor to Fix the Bidirectional Detuning With ZVS in Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Sang-Won Kim; Seong-Min Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
 		IEEE Transactions on Industrial Electronics, July 2023<br>
-		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">link</div></a>
+		<a href="https://ieeexplore.ieee.org/document/10190168"><div class="color-button">link</div></a>
 	</li><br>
 	<li>
 		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
@@ -24,7 +24,6 @@ title: Research
 
 <h2>Conferences</h2>
 <ul>
-
  <li>
 		<b>Automatic Resonance Tuning Receiver for Spread-Spectrum EMI Suppression</b><br>
 		<i>Saidul Alam Chowdhury; Dukju Ahn; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho </i><br>
