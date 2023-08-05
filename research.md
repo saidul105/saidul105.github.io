@@ -4,21 +4,42 @@ permalink: /research/
 title: Research
 ---
 
-<h2>Publications</h2>
+<h2>Journals</h2>
 <ul>
 <li>
-		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
+		<b>Automatic Tuning Resonant Capacitor to Fix the Bidirectional Detuning With ZVS in Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Sang-Won Kim; Seong-Min Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
-		IEEE Transactions on Industrial Electronics, 2023<br>
-		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">pdf</div></a>
+		IEEE Transactions on Industrial Electronics, July 2023<br>
+		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">link</div></a>
 	</li><br>
 	<li>
+		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
+		<i>Saidul Alam Chowdhury; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
+		IEEE Transactions on Industrial Electronics, March 2022<br>
+		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">link</div></a>
+	</li><br>
+
+
+	
+
+<h2>Conferences</h2>
+<ul>
+
+ <li>
+		<b>Automatic Resonance Tuning Receiver for Spread-Spectrum EMI Suppression</b><br>
+		<i>Saidul Alam Chowdhury; Dukju Ahn; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho </i><br>
+		Korean Electrical Society Conference Proceedings, 2022<br>
+		<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11145020"><div class="color-button">link</div></a>
+	</li><br>
+ 
+ <li>
 		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
 		<i>Saidul Alam Chowdhury; Om Prakash Bose; Quazi Delwar Hossain</i><br>
 		2018 International Conference on Innovations in Science, Engineering and Technology (ICISET), 2018<br>
-		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">pdf</div></a>
+		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">link</div></a>
 	</li><br>
-	
+
+
 
 <!-- 
 	<li>
