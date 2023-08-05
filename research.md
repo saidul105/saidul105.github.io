@@ -4,22 +4,23 @@ permalink: /research/
 title: Research
 ---
 
+
+
 <h2>Journals</h2>
 <ul>
-<li>
+ <li>
 		<b>Automatic Tuning Resonant Capacitor to Fix the Bidirectional Detuning With ZVS in Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Sang-Won Kim; Seong-Min Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
 		IEEE Transactions on Industrial Electronics, July 2023<br>
 		<a href="https://ieeexplore.ieee.org/document/10190168"><div class="color-button">link</div></a>
 	</li><br>
-	<li>
+ 
+ <li>
 		<b>Automatic Tuning Receiver for Improved Efficiency and EMI Suppression in Spread-Spectrum Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
 		IEEE Transactions on Industrial Electronics, March 2022<br>
 		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">link</div></a>
 	</li><br>
-
-
 	
 
 <h2>Conferences</h2>
