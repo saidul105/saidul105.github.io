@@ -8,6 +8,12 @@ title: Research
 
 <h2>Journals</h2>
 <ul>
+	 <li>
+		<b>Reducing/Increasing Tuning Capacitor for Frequency-Modulated Spread-Spectrum Inductive Power Transfer (accepted)</b><br>
+		<i>Saidul Alam Chowdhury; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
+		IEEE Transactions on Power Electronics, August 2023<br>
+		
+	</li><br>
  <li>
 		<b>Automatic Tuning Resonant Capacitor to Fix the Bidirectional Detuning With ZVS in Wireless Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
@@ -25,6 +31,12 @@ title: Research
 
 <h2>Conferences</h2>
 <ul>
+	 <li>
+		<b>Self-Tuning LCC Receiver for Improved Efficiency and EMI Mitigation in Spread-Spectrum Wireless Power Transfer (accepted)</b><br>
+		<i>Saidul Alam Chowdhury; Dukju Ahn</i><br>
+		IEEE Wireless Power Technology Conference and Expo 2023 (WPTCE)<br>
+		
+	</li><br>
  <li>
 		<b>Automatic Resonance Tuning Receiver for Spread-Spectrum EMI Suppression</b><br>
 		<i>Saidul Alam Chowdhury; Dukju Ahn; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho </i><br>
