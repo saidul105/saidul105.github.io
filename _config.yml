@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-googlescholar_username: citations?user=QEFMBk0AAAAJ&hl=en&oi=ao
+orcid_username: 0009-0009-9800-4678
 linkedin_username: saidul-alam-chowdhury
 researchgate_username: Saidul-Alam-Chowdhury
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
