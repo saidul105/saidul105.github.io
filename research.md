@@ -43,7 +43,12 @@ title: Research
 		Korean Electrical Society Conference Proceedings, 2022<br>
 		<a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11145020"><div class="color-button">link</div></a>
 	</li><br>
- 
+  <li>
+		<b>Resonant Inverter with Self-Calibration of Coil Inductance Detuning (abstract)</b><br>
+		<i>Dukju Ahn; Saidul Alam Chowdhury</i><br>
+		EAPPC & BEAMS 2022, Abstract No.A20220427-0719<br>
+		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">link</div></a>
+	</li><br>
  <li>
 		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
 		<i>Saidul Alam Chowdhury; Om Prakash Bose; Quazi Delwar Hossain</i><br>
