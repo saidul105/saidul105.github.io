@@ -47,7 +47,7 @@ title: Research
 		<b>Resonant Inverter with Self-Calibration of Coil Inductance Detuning (abstract)</b><br>
 		<i>Dukju Ahn; Saidul Alam Chowdhury</i><br>
 		EAPPC & BEAMS 2022, Abstract No.A20220427-0719<br>
-		<a  href="EAPPC.pdf"><div class="color-button">link1</div></a>
+		<a  href="eappc1.pdf"><div class="color-button">link1</div></a>
 	</li><br>
  <li>
 		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
