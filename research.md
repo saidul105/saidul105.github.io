@@ -30,7 +30,7 @@ title: Research
 	
 
 <h2>Conferences</h2>
-
+<ul>
 	 <li>
 		<b>Self-Tuning LCC Receiver for Improved Efficiency and EMI Mitigation in Spread-Spectrum Wireless Power Transfer (accepted)</b><br>
 		<i>Saidul Alam Chowdhury; Dukju Ahn</i><br>
