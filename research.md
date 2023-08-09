@@ -9,10 +9,10 @@ title: Research
 <h2>Journals</h2>
 <ul>
 	 <li>
-		<b>Reducing/Increasing Tuning Capacitor for Frequency-Modulated Spread-Spectrum Inductive Power Transfer (accepted)</b><br>
+		<b>Reducing/Increasing Tuning Capacitor for Frequency-Modulated Spread-Spectrum Inductive Power Transfer</b><br>
 		<i>Saidul Alam Chowdhury; Seong-Min Kim; Sang-Won Kim; Jungick Moon; In-Kui Cho; Dukju Ahn</i><br>
 		IEEE Transactions on Power Electronics, August 2023<br>
-		
+		<a href="https://ieeexplore.ieee.org/document/10210683"><div class="color-button">link</div></a>
 	</li><br>
  <li>
 		<b>Automatic Tuning Resonant Capacitor to Fix the Bidirectional Detuning With ZVS in Wireless Power Transfer</b><br>
@@ -47,7 +47,7 @@ title: Research
 		<b>Resonant Inverter with Self-Calibration of Coil Inductance Detuning (abstract)</b><br>
 		<i>Dukju Ahn; Saidul Alam Chowdhury</i><br>
 		EAPPC & BEAMS 2022, Abstract No.A20220427-0719<br>
-		<a  href="EAPPC.pdf"><div class="color-button">link3</div></a>
+		<a  href="EAPPC22.pdf"><div class="color-button">link</div></a>
 	</li><br>
  <li>
 		<b>Design of a Two Stage CMOS Operational Amplifier in 100nm Technology with Low Offset Voltage</b><br>
