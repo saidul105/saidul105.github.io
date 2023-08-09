@@ -67,7 +67,7 @@ title: Research
 		<b>3.3 KW Spread-Spectrum demonstartion for wireless charger</b><br>
 		Electronics and Telecommunications Research Institute (ETRI), 2022-Present<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
-		<i>Spread-spectrum is a switching frequency modulation technology that can significantly suppress the EMI peak in wireless power transfer system. However, modulated switching frequency causes several challanges into the WPT system such as, output voltage ripple, efficiency declination, inverter zero voltage switching failure etc. By solving these issues,a demonstartion of 3.3 KW WPT system is the main goal of this project. </i> <br>
+		<i>Spread-spectrum is a switching frequency modulation technology that can significantly suppress the EMI peak in wireless power transfer system. However, modulated switching frequency causes several challanges into the WPT system such as, output voltage ripple, efficiency declination, inverter zero voltage switching failure etc. By solving these issues,a demonstartion of 3.3 KW WPT system is the main goal of this project. 
 		
 	</li><br>
 	
@@ -75,23 +75,10 @@ title: Research
 
 
 
-</ul>
 
 
 
-<!-- 
-<h2>Research Implementations</h2>
-<ul>
-	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-</ul>
- -->
+
  
  <h2>Attended Conference</h2>
 <ul>
