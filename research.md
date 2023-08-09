@@ -27,7 +27,7 @@ title: Research
 		IEEE Transactions on Industrial Electronics, March 2022<br>
 		<a href="https://ieeexplore.ieee.org/document/9724146"><div class="color-button">link</div></a>
 	</li><br>
-	
+	</ul>
 
 <h2>Conferences</h2>
 <ul>
