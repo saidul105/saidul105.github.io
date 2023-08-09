@@ -6,7 +6,7 @@ title: Research
 
 
 
-<h2>Journals</h2>
+<h>Journals</h>
 <ul>
 	 <li>
 		<b>Reducing/Increasing Tuning Capacitor for Frequency-Modulated Spread-Spectrum Inductive Power Transfer</b><br>
