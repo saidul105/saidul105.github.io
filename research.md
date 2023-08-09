@@ -80,9 +80,9 @@ title: Research
 
 
  
- <h2>Attended Conference</h2>
+<h2>Attended Conference</h2>
 <ul>
-<li>
+         <li>
 		<b>WoW 2020: IEEE PELS Workshop on Emerging Technologies: Wireless Power;<br>   
                    WPTC 2020: IEEE MTT-S Wireless Power Transfer Conference; <br>
 	           AFA 2020: AirFuel Alliance Developers Forum  </b><br>
