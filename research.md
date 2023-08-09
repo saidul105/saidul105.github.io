@@ -70,15 +70,8 @@ title: Research
 		<i>Spread-spectrum is a switching frequency modulation technology that can significantly suppress the EMI peak in wireless power transfer system. However, modulated switching frequency causes several challanges into the WPT system such as, output voltage ripple, efficiency declination, inverter zero voltage switching failure etc. By solving these issues,a demonstartion of 3.3 KW WPT system is the main goal of this project. 
 		
 	</li><br>
-	
 
-
-
-
-
-
-
-
+ 
  
 <h2>Attended Conference</h2>
 <ul>
