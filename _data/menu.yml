@@ -7,12 +7,12 @@
 #- title: "Projects"
  # href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
-
+  
+- title: "Gallery"
+  href: "/Gallery/"
 
 
 # - title: "Miscellany"
