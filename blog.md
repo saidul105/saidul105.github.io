@@ -17,6 +17,9 @@ permalink: /Gallery/
 
 
 
+{% include image.html url="/1691763570550.jpg" caption="" width=300 align="right" %}
+
+
 
 
 {% include image.html url="/1691763415236.jpg" caption="" width=300 align="right" %}
