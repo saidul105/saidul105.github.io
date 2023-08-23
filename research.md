@@ -61,13 +61,13 @@ title: Research
 
 
 
-<h2>Research Projects</h2>
+<h2>Funded Projects</h2>
 <ul>
 	<li>
-		<b>3.3 KW Spread-Spectrum demonstartion for wireless charger</b><br>
-		Electronics and Telecommunications Research Institute (ETRI), 2022-Present<br>
+		<b>Development of 3.3kW cluster wireless charging technologies for robot</b><br>
+		Institute of Information & communications Technology Planning & Evaluation (IITP)<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
-		<i>Spread-spectrum is a switching frequency modulation technology that can significantly suppress the EMI peak in wireless power transfer system. However, modulated switching frequency causes several challanges into the WPT system such as, output voltage ripple, efficiency declination, inverter zero voltage switching failure etc. By solving these issues,a demonstartion of 3.3 KW WPT system is the main goal of this project. 
+		<i>Funded by Korea government (MSIT) (Grant Number: 2022-0-00452) 
 		
 	</li><br>
 
