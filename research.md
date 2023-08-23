@@ -80,7 +80,7 @@ title: Research
 	</li><br>
 
  <li>
-		<b>Development of commercialization technology for ultrasmall high efficiency wireless charging for 1 kW class robot</b><br>
+		<b>Development of commercialization technology for ultrasmall high efficiency wireless charging for 1kW class robot</b><br>
 		Institute of Information and Communications Technology Planning and Evaluation<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
 		<i>Funded by Korea government (Grant Number: IITP2020-0-00618)</i><br>
