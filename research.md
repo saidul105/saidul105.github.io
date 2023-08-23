@@ -56,6 +56,22 @@ title: Research
 		<a href="https://ieeexplore.ieee.org/document/8745659"><div class="color-button">link</div></a>
 	</li><br>
 
+<h2>Patents</h2>
+<ul>
+	 <li>
+		<b>Wireless charging receiving device and method capable of adjusting resonant frequency</b><br>
+		<i>Saidul Alam Chowdhury, Dukju Ahn</i><br>
+		Korea Patent application, 2023<br>
+		
+	</li><br>
+ <li>
+		<b>How to tune an arbitrarily adjustable resonant capacitor</b><br>
+		<i>Sang-Won Kim, Gwangzeen Ko, Seong-Min Kim, Jungick Moon, Jehoon Yun, In-Kui Cho, Saidul Alam Chowdhury, Shahid Ali Khan, Dukju Ahn</i><br>
+		United States Patent application, PR20220099US, 2022<br>
+		
+	</li><br>
+ 
+
 
 
 
