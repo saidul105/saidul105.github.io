@@ -71,6 +71,24 @@ title: Research
 		
 	</li><br>
 
+<li>
+		<b>Study on 3D Communication Technology for Hyper-Connectivity</b><br>
+		Electronics and Telecommunications Research Institute (ETRI)<br>
+		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
+		<i>(Grant Number: 23ZH1140)
+		
+	</li><br>
+
+ <li>
+		<b>Development of commercialization technology for ultrasmall high efficiency wireless charging for 1 kW class robot</b><br>
+		Institute of Information and Communications Technology Planning and Evaluation<br>
+		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
+		<i>Funded by Korea government (Grant Number: IITP2020-0-00618)
+		
+	</li><br>
+
+
+
  
  
 <h2>Attended Conference</h2>
