@@ -67,7 +67,7 @@ title: Research
 		<b>Development of 3.3kW cluster wireless charging technologies for robot</b><br>
 		Institute of Information & communications Technology Planning & Evaluation (IITP)<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
-		<i>Funded by Korea government (MSIT) (Grant Number: 2022-0-00452) 
+		<i>Funded by Korea government (MSIT) (Grant Number: 2022-0-00452) <br>
 		
 	</li><br>
 
@@ -75,7 +75,7 @@ title: Research
 		<b>Study on 3D Communication Technology for Hyper-Connectivity</b><br>
 		Electronics and Telecommunications Research Institute (ETRI)<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
-		<i>(Grant Number: 23ZH1140)
+		<i>(Grant Number: 23ZH1140)<br>
 		
 	</li><br>
 
@@ -83,7 +83,7 @@ title: Research
 		<b>Development of commercialization technology for ultrasmall high efficiency wireless charging for 1 kW class robot</b><br>
 		Institute of Information and Communications Technology Planning and Evaluation<br>
 		 <b><i>Advisor: Dr. Ahn Dukju</i></b><br> 
-		<i>Funded by Korea government (Grant Number: IITP2020-0-00618)
+		<i>Funded by Korea government (Grant Number: IITP2020-0-00618)<br>
 		
 	</li><br>
 
